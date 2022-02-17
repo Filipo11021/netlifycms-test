@@ -1,4 +1,4 @@
 ---
-hero_title: test test
-hero_description: lorem ipsum test
+hero_title: "1111111"
+hero_description: "22222"
 ---
